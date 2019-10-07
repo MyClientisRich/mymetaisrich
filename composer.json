@@ -1,8 +1,8 @@
 {
     "name": "mcir/mymetaisrich",
     "type": "wordpress-plugin",
-    "description": "Cookies Banner Plugin for Wordpress",
-    "keywords": ["cookies","banner"],
+    "description": "My Meta Is Rich Plugin for Wordpress",
+    "keywords": ["meta", "seo"],
     "homepage": "https://github.com/MyClientisRich/mymetaisrich",
     "license": "MIT",
     "authors": [
